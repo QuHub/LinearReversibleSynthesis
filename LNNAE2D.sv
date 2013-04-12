@@ -10,7 +10,6 @@
 //(N-1) horizontal computations. During this state"count" is incremented
 //for each elementary row operation performed in the LNNAE algorithm.
 
-
 //`define DEBUG
 
 import "DPI-C" function shortint unsigned random4by4();
